@@ -1,3 +1,4 @@
+#LANGLACE v2
 # La variable est écrite sans espace en camelCase
 # Elle commence par une lettre minuscule et chaque mot suivant commence par une majuscule
 
